@@ -1,6 +1,6 @@
 # ROS2
 
-### Install ros2 
+### Install ROS2
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 
 ### Environment Setup
