@@ -29,7 +29,7 @@ ros2 run demo_nodes_cpp listener
 
 ### Install Colcon
 ```
-sudo apt install python3-colcon-common-extension
+sudo apt install python3-colcon-common-extensions
 ```
 
 
