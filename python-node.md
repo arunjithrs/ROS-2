@@ -24,7 +24,7 @@ if __name__ =='__main__':
     main()
 ```
 
-Clean up code
+Clean code
 ```
 #!/usr/bin/env python3
 import rclpy
